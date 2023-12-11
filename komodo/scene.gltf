@@ -123,7 +123,7 @@
   "buffers": [
     {
       "byteLength": 2457528,
-      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/scene.bin"
+      "uri": "scene.bin"
     }
   ],
   "extensionsRequired": ["KHR_materials_pbrSpecularGlossiness"],
