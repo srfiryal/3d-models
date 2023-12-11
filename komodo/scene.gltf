@@ -4,16 +4,8 @@
       "bufferView": 2,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        34.698265075683594,
-        32.8188591003418,
-        69.93419647216797
-      ],
-      "min": [
-        -76.82654571533203,
-        -0.21496379375457764,
-        -18.338451385498047
-      ],
+      "max": [34.698265075683594, 32.8188591003418, 69.93419647216797],
+      "min": [-76.82654571533203, -0.21496379375457764, -18.338451385498047],
       "type": "VEC3"
     },
     {
@@ -21,33 +13,17 @@
       "byteOffset": 288864,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9999897480010986,
-        0.9999933838844299,
-        0.999977707862854
-      ],
-      "min": [
-        -0.9999271035194397,
-        -0.9999793171882629,
-        -0.9999943971633911
-      ],
+      "max": [0.9999897480010986, 0.9999933838844299, 0.999977707862854],
+      "min": [-0.9999271035194397, -0.9999793171882629, -0.9999943971633911],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9996218085289001,
-        0.9999832510948181,
-        0.9998956322669983,
-        1.0
-      ],
+      "max": [0.9996218085289001, 0.9999832510948181, 0.9998956322669983, 1.0],
       "min": [
-        -0.999747097492218,
-        -0.9999534487724304,
-        -0.9999139308929443,
-        -1.0
+        -0.999747097492218, -0.9999534487724304, -0.9999139308929443, -1.0
       ],
       "type": "VEC4"
     },
@@ -55,14 +31,8 @@
       "bufferView": 1,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9943374991416931,
-        0.9943156242370605
-      ],
-      "min": [
-        0.0032464032992720604,
-        0.003911316394805908
-      ],
+      "max": [0.9943374991416931, 0.9943156242370605],
+      "min": [0.0032464032992720604, 0.003911316394805908],
       "type": "VEC2"
     },
     {
@@ -70,14 +40,8 @@
       "byteOffset": 192576,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9943374991416931,
-        0.9943156242370605
-      ],
-      "min": [
-        0.0032464032992720604,
-        0.003911316394805908
-      ],
+      "max": [0.9943374991416931, 0.9943156242370605],
+      "min": [0.0032464032992720604, 0.003911316394805908],
       "type": "VEC2"
     },
     {
@@ -85,14 +49,8 @@
       "byteOffset": 385152,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9943374991416931,
-        0.9943156242370605
-      ],
-      "min": [
-        0.0032464032992720604,
-        0.003911316394805908
-      ],
+      "max": [0.9943374991416931, 0.9943156242370605],
+      "min": [0.0032464032992720604, 0.003911316394805908],
       "type": "VEC2"
     },
     {
@@ -100,14 +58,8 @@
       "byteOffset": 577728,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9943374991416931,
-        0.9943156242370605
-      ],
-      "min": [
-        0.0032464032992720604,
-        0.003911316394805908
-      ],
+      "max": [0.9943374991416931, 0.9943156242370605],
+      "min": [0.0032464032992720604, 0.003911316394805908],
       "type": "VEC2"
     },
     {
@@ -115,14 +67,8 @@
       "byteOffset": 770304,
       "componentType": 5126,
       "count": 24072,
-      "max": [
-        0.9943374991416931,
-        0.9943156242370605
-      ],
-      "min": [
-        0.0032464032992720604,
-        0.003911316394805908
-      ],
+      "max": [0.9943374991416931, 0.9943156242370605],
+      "min": [0.0032464032992720604, 0.003911316394805908],
       "type": "VEC2"
     },
     {
@@ -177,27 +123,23 @@
   "buffers": [
     {
       "byteLength": 2457528,
-      "uri": "scene.bin"
+      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/scene.bin"
     }
   ],
-  "extensionsRequired": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "extensionsUsed": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
+  "extensionsRequired": ["KHR_materials_pbrSpecularGlossiness"],
+  "extensionsUsed": ["KHR_materials_pbrSpecularGlossiness"],
   "images": [
     {
-      "uri": "textures/material_0_diffuse.png"
+      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_diffuse.png"
     },
     {
-      "uri": "textures/material_0_specularGlossiness.png"
+      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_specularGlossiness.png"
     },
     {
-      "uri": "textures/material_0_normal.png"
+      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_normal.png"
     },
     {
-      "uri": "textures/material_0_occlusion.png"
+      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_occlusion.png"
     }
   ],
   "materials": [
@@ -205,21 +147,12 @@
       "doubleSided": true,
       "extensions": {
         "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-          ],
+          "diffuseFactor": [1.0, 1.0, 1.0, 1.0],
           "diffuseTexture": {
             "index": 0
           },
           "glossinessFactor": 1.0,
-          "specularFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
+          "specularFactor": [1.0, 1.0, 1.0],
           "specularGlossinessTexture": {
             "index": 1
           }
@@ -258,87 +191,35 @@
   ],
   "nodes": [
     {
-      "children": [
-        1
-      ],
+      "children": [1],
       "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        2.220446049250313e-16,
-        -1.0,
-        0.0,
-        0.0,
-        1.0,
-        2.220446049250313e-16,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
+        1.0, 0.0, 0.0, 0.0, 0.0, 2.220446049250313e-16, -1.0, 0.0, 0.0, 1.0,
+        2.220446049250313e-16, 0.0, 0.0, 0.0, 0.0, 1.0
       ],
       "name": "Sketchfab_model"
     },
     {
-      "children": [
-        2
-      ],
+      "children": [2],
       "name": "root"
     },
     {
-      "children": [
-        3
-      ],
+      "children": [3],
       "matrix": [
-        1.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        2.220446049250313e-16,
-        1.0,
-        0.0,
-        0.0,
-        -1.0,
-        2.220446049250313e-16,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
+        1.0, 0.0, 0.0, 0.0, 0.0, 2.220446049250313e-16, 1.0, 0.0, 0.0, -1.0,
+        2.220446049250313e-16, 0.0, 0.0, 0.0, 0.0, 1.0
       ],
       "name": "GLTF_SceneRootNode"
     },
     {
-      "children": [
-        4
-      ],
+      "children": [4],
       "matrix": [
-        0.009999999776482582,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.009999999776482582,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.009999999776482582,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        1.0
+        0.009999999776482582, 0.0, 0.0, 0.0, 0.0, 0.009999999776482582, 0.0,
+        0.0, 0.0, 0.0, 0.009999999776482582, 0.0, 0.0, 0.0, 0.0, 1.0
       ],
       "name": "RootNode.0_0"
     },
     {
-      "children": [
-        5
-      ],
+      "children": [5],
       "name": "komodo_dragon.1_1"
     },
     {
@@ -358,9 +239,7 @@
   "scenes": [
     {
       "name": "Sketchfab_Scene",
-      "nodes": [
-        0
-      ]
+      "nodes": [0]
     }
   ],
   "textures": [
