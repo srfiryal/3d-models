@@ -130,16 +130,16 @@
   "extensionsUsed": ["KHR_materials_pbrSpecularGlossiness"],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_diffuse.png"
+      "uri": "textures/material_0_diffuse.png"
     },
     {
-      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_specularGlossiness.png"
+      "uri": "textures/material_0_specularGlossiness.png"
     },
     {
-      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_normal.png"
+      "uri": "textures/material_0_normal.png"
     },
     {
-      "uri": "https://raw.githubusercontent.com/srfiryal/3d-models/main/komodo/textures/material_0_occlusion.png"
+      "uri": "textures/material_0_occlusion.png"
     }
   ],
   "materials": [
