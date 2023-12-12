@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rhino-dali-style
+* source:	https://sketchfab.com/3d-models/rhino-dali-style-433b28da36c342428794b26c8b35fa2f
+* author:	yorkeli601 (https://sketchfab.com/yorkeli601)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rhino-dali-style" (https://sketchfab.com/3d-models/rhino-dali-style-433b28da36c342428794b26c8b35fa2f) by yorkeli601 (https://sketchfab.com/yorkeli601) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

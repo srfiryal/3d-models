@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dugong (Sea Cow)
+* source:	https://sketchfab.com/3d-models/dugong-sea-cow-17bdf341fcc047888935f67a05dd2fea
+* author:	Ian Christopher (https://sketchfab.com/ianchrisjohn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dugong (Sea Cow)" (https://sketchfab.com/3d-models/dugong-sea-cow-17bdf341fcc047888935f67a05dd2fea) by Ian Christopher (https://sketchfab.com/ianchrisjohn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
